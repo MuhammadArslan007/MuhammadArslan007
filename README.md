@@ -10,14 +10,18 @@ Welcome to my GitHub repository! I am Muhammad Arslan, a passionate and experien
 - **Specializations:** Artificial intelligence, Machine Learning, Deep Learning, GenAI, Computer Vision, NLP, Data Science/Analytics, Data Engineering, Cloud DevOps
 
 ## 🛠️ Notable Projects
+
+### [Movie Recommendation System](https://myrecommendersystem.streamlit.app/)
+A content-based recommendation system using cosine similarity and TMDB API. Built with Python, Streamlit, Pandas, and Scikit-learn to provide visual movie suggestions through an interactive web interface.
+
+### [Diabetes Prediction App](https://diabetes-predection.streamlit.app/)
+A deep learning-based diagnostic tool using VGG16 to predict diabetes from medical scans. Developed with TensorFlow, OpenCV, and Streamlit to deliver real-time predictions in a user-friendly web app.
+
 ### [Olympics Analysis Web App](https://github.com/MuhammadArslan007/Olympics-Analysis-Web-App)
 A comprehensive web application analyzing Olympic data from 1896 to 2016. Utilized Python, Pandas, Numpy, and Streamlit, deployed on Heroku.
 
 ### [US Accident Analysis](https://github.com/MuhammadArslan007/US-Accident-Analysis)
-An exploratory data analysis project aiming to devise strategies to reduce accidents in the US, leveraging Python, Pandas, and Seaborn.
-
-### [Spotify Artist Analysis](https://github.com/MuhammadArslan007/Spotify-Artist-Analysis)
-Analyzed Spotify data to understand user preferences and optimize content delivery using Python, Pandas, and Matplotlib.
+An exploratory data analysis project focusing on traffic accident data in the US. Leveraged Python, Pandas, and Seaborn to uncover patterns and propose insights for reducing accident rates.
 
 ## 🌟 Experience & Contributions
 - **Machine Learning Engineer at IrisLab:** Developed neuropathy detection models using FLIR camera images, built and maintained backend APIs with FastAPI, and collaborated with multidisciplinary teams to drive innovation in medical diagnostics.
